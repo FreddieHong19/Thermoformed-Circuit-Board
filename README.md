@@ -1,6 +1,10 @@
 # Thermoformed-Circuit-Board
 This is a github repository for TCB
 
+TCB samples
+
+![alt text here](TCB samples.jpg)
+
 This Github repository contains detailed research material of the published CHI 2021 conference paper titled Thermoformed Circuit Boards : Fabricating freeform 3D printed circuit boards using thermoplastic conductive filament and heat bending"
 
 Research mateiral shared in this repository include:
