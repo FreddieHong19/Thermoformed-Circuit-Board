@@ -18,3 +18,4 @@ Research mateiral shared in this repository include:
 
 5. Component Assembly "How-to"
 
+![](images/tcb_samples.jpg)
