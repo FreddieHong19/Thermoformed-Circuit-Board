@@ -40,3 +40,10 @@ Add additive Brightner into the tank.
 
 For Electroplating printed condcutive PLA we recommend supplying current using Voltage constant settings.
 For TCB: We useD a drop of silver ink to minimise the contact resistance between the printed trace and the crocodile clips connected to the power supply. For larger circuits, we used multiple crocodile clips to distribute the current flow. We began electroplating at constant **low voltage (~0.2V)** until we observed that copper formed across the length of the circuit (~20min). As more copper deposited, we were able to increase current flow at constant voltage, increasing to **0.3V** then to **0.4V** (~40min). This reduces the amount of current otherwise forced through the PLA, which may lead to joule heating and deformation. Also, the bath was agitated with a magnetic stirrer at **400** rpm for homogeneous deposition following the electrodeposition guideline.
+
+---
+3. Thermoforming 
+
+---
+4. Component Assembly
+
