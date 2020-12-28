@@ -69,3 +69,13 @@ Once bent the PLA should cool down and sets into the new shape in room temperatu
 ---
 4. Component Assembly
 
+To attach electrical component onto TCB, we used a conductive silver ink curable at a room temperature.\
+Conductive silver ink takes up to 12 hours to fully cure at a room temperature, but within 20min the applied surface becomes touch dry.\
+The silver ink has a weak adhesive propoerties, so we applied a layer of superglue on top of the coated TCB trace and the lead of the electrical component to enhance the adhesive strength. We noticed that this does not interfere with the conductivity of the applied silver ink.
+
+It is also possible to use conductive silver epoxy, which has greater adhesives propoerties. However, it takes much longer to cure so we used the conductive silver ink with the super glue instead.
+
+For connecting lead of microcontrolelr to the sockets, we recommend sharpeneing the tip of the arduino pins for easier insertion into the sockets.\
+Simply push the sharpned pins into the socket and apply silver ink to reduce the contact resistancy.
+
+
