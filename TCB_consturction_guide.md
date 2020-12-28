@@ -58,6 +58,14 @@ For TCB: We useD a drop of silver ink to minimise the contact resistance between
 ---
 3. Thermoforming 
 
+PLA has inherently low glass transitional temperature 55 to 60 °C which means and can be easily thermoformed using accessible heating equipments.\
+Once the PLA is heated to the glass transitional state, it should feel rubbery and can be bent to the desireable shape.\
+We used desktop hot-air blower station with the small tip to heat the target region accurately.\
+
+Once bent the PLA should cool down and sets into the new shape in room temperature within a minutes.
+
+
+
 ---
 4. Component Assembly
 
