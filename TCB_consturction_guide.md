@@ -19,7 +19,7 @@ The list of the suppliers can be found in the [mateirals and suppliers](Material
   Firstly, download the editable firmware file from [Prusa3D GitHub Pages](https://github.com/prusa3d/Prusa-Firmware)\
   Open **configuration_prusa.h** found in *Prusa i3 configs\Prusa-Firmware-3.8.1\Firmware\variants*.
   
-  Find //extrude mintemp on line 325 and change the value to 140./
+  Find //extrude mintemp on line 325 and change the value to 140.\
   Now upload this firmware to the Prusai3 via Arduino and it should override the minimum temperature for Prusai3 extruder.
   
 
