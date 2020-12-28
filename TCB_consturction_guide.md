@@ -23,7 +23,7 @@ The list of the suppliers can be found in the [mateirals and suppliers](Material
   Now upload this firmware to the Prusai3 via Arduino and it should override the minimum temperature for Prusai3 extruder.
   
 
-  For 3D printing multimateiral using single extruder. We followed the articke by rainerwp: [Prusa i3 MK3: Real Multicolour prints without MMU](http://schlosshan.eu/blog/2019/03/02/prusa-i3-mk3-real-multicolour-prints-without-mmu/)\
+  For 3D printing multimateiral using single extruder. We followed the article by rainerwp: [Prusa i3 MK3: Real Multicolour prints without MMU](http://schlosshan.eu/blog/2019/03/02/prusa-i3-mk3-real-multicolour-prints-without-mmu/)\
   
   
 ---
