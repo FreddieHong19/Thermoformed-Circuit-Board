@@ -25,11 +25,11 @@ The list of the suppliers can be found in the [mateirals and suppliers](Material
 
 We used commonly found copper electroplating kit online to formulate the copper electrolyte.
 
-1L of Copper plating electrolyte solution consists of:
--Diluted Sulphuric Acid.
--Copper Sulphate crystals
--Distilled Water
--Additive Brigtner (optional)
+1L of Copper plating electrolyte solution consists of: \
+-Diluted Sulphuric Acid. \
+-Copper Sulphate crystals \
+-Distilled Water \
+-Additive Brigtner (optional) \
 
 Please wear appropriate PPE before formulating the plating bath.
 
