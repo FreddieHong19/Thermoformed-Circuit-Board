@@ -7,16 +7,15 @@ The list of the suppliers can be found in the [mateirals and suppliers](Material
 ---
 1. 3D Printing Conductive PLA with Prusai3
 
-  - Editting Prusa Firmware\ 
+  Editting Prusa Firmware\
+  
   The recommended printing temperature of the Conductive PLA (*Electrifi*) is between 140-160°C.
   In our experiment we found that 140°C is too low for consistent extrusion quality on Prusa i3.
   We found that 150°C outputs a good printing quality and reistance. 
   
-  
   By default Prusai3's firmware allow minimum printing temperature of 180°C.
   So in order to use *Electrifi*, the firmware file need to be edited.
-  
-  
+ 
   To Edit the Prusa Firmware:/
   Firstly, download the editable firmware file from [Prusa3D GitHub Pages](https://github.com/prusa3d/Prusa-Firmware)\
   Open **configuration_prusa.h** found in *Prusa i3 configs\Prusa-Firmware-3.8.1\Firmware\variants*.
@@ -24,7 +23,8 @@ The list of the suppliers can be found in the [mateirals and suppliers](Material
   Find //extrude mintemp on line 325 and change the value to 140./
   Now upload this firmware to the Prusai3 via Arduino and it should override the minimum temperature for Prusai3 extruder.
   
-  - Multi_malterial printing\
+  
+  Multi_malterial printing\
   For 3D printing multimateiral using single extruder. We followed the articke by rainerwp: [Prusa i3 MK3: Real Multicolour prints without MMU](http://schlosshan.eu/blog/2019/03/02/prusa-i3-mk3-real-multicolour-prints-without-mmu/)\
   
   
