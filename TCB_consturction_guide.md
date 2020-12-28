@@ -27,10 +27,10 @@ The list of the suppliers can be found in the [mateirals and suppliers](Material
   
   While the print setting may vary depending on the machine and the quality of assembly, the summary of the print settings we used in the TCB paper is as below:
   
-| mateiral|Temperature | Speed | infill | Extrusion multiplier | 
-| ---|--|--|--|
-| Conductive PLA | 150°C  | 10mm/s |1.1|
-| White PLA | 205°C. | 35mm/s| 1.0|
+| --|Temperature | Speed | infill | Extrusion multiplier | 
+| ---|--|--|--|--|
+| Conductive PLA | 150°C  | 10mm/s | 99% |1.1|
+| White PLA | 205°C. | 35mm/s | 99% | 1.0|
   
   
 ---
