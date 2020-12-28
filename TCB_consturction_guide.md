@@ -29,7 +29,7 @@ We used commonly found copper electroplating kit online to formulate the copper 
 -Diluted Sulphuric Acid. \
 -Copper Sulphate crystals \
 -Distilled Water \
--Additive Brigtner (optional) \
+-Additive Brigtner (optional) 
 
 Please wear appropriate PPE before formulating the plating bath.
 
