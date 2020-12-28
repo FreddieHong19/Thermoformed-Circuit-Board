@@ -16,8 +16,14 @@ The list of the suppliers can be found in the [mateirals and suppliers](Material
   By default Prusai3's firmware allow minimum printing temperature of 180°C.
   So in order to use *Electrifi*, the firmware file need to be edited.
   
-  (You can open the file xx and edit the number after xx to 150 or simply replace file with the provided setup file from this repository)
-  Please refer to the screenshot below.
+  
+  To Edit the Prusa Firmware:/
+  Firstly, download the editable firmware file from [Prusa3D GitHub Pages](https://github.com/prusa3d/Prusa-Firmware)/
+  Openin **configuration_prusa.h** found in *Prusa i3 configs\Prusa-Firmware-3.8.1\Firmware\variants*.\
+  
+  Find //extrude mintemp on line 325 and change the value to 140
+  
+  
 
 ---
 2. Copper Electroplating
