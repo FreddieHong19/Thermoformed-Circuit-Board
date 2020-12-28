@@ -25,6 +25,13 @@ The list of the suppliers can be found in the [mateirals and suppliers](Material
 
   For 3D printing multimateiral using single extruder. We followed the article by rainerwp: [Prusa i3 MK3: Real Multicolour prints without MMU](http://schlosshan.eu/blog/2019/03/02/prusa-i3-mk3-real-multicolour-prints-without-mmu/)\
   
+  While the print setting may vary depending on the machine and the quality of assembly, the summary of the print settings we used in the TCB paper is as below:
+  
+|   | Temperature | Speed | infill | Extrusion multiplier | 
+| ---|--|--|
+| Conductive PLA | 150°C  | 10mm/s |1.1|
+| White PLA | 205°C. | 35mm/s| 1.0|
+  
   
 ---
 2. Copper Electroplating
