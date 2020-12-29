@@ -31,8 +31,13 @@ The list of the suppliers can be found in the [mateirals and suppliers](Material
 | ---|--|--|--|--|
 | Conductive PLA | 150°C  | 10mm/s | 99% |1.1|
 | White PLA | 205°C. | 35mm/s | 99% | 1.0|
-  
-  
+
+We recommend 2 layes for single sided TCB and 4 layers for double-sided TCB\
+For constucting TCB with thicker substrates, we recommend increasing the layer height instead of layer numbers.\
+For double sided TCB it requrie 4 switching between PLA and condcutive PLA in order below. \
+PLA > conductivw PLA > PLA > Conductive PLA > PLA
+
+
 ---
 2. Copper Electroplating
 
