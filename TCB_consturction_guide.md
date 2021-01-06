@@ -38,6 +38,7 @@ For constucting TCB with thicker substrates, we recommend increasing the layer h
 For double sided TCB it requrie 4 switching between PLA and condcutive PLA in order below. \
 PLA > conductivw PLA > PLA > Conductive PLA > PLA
 
+Conductive PLA leaves larger amount of residue in the nozzle, so ensure when switching from conductive PLA to normal PLA that visually no residue is apparant.
 
 ---
 2. Copper Electroplating
